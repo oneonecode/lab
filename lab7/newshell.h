@@ -1,0 +1,10 @@
+int printcommand();
+int printtime();
+int printcurrentdir();
+int clear();
+int changedir();
+int add();
+int sub();
+int quit();
+void init(tLinkTable* L);
+void excuteShell();
